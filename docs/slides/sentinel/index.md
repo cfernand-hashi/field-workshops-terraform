@@ -49,18 +49,14 @@ class: compact
 <b>
 - Introduction to Sentinel Concepts
 - How Sentinel Works
-    - *Lab Challenge 1:* Using Sentinel CLI
-    - *Lab Challenge 2:* Applying and Testing a Policy with the CLI
-- First Sentinel Policy Overview
+    - *Lab 1:* Sentinel CLI Basics
+- Introducing a Policy
   - Imports (Modules and Functions)
-  - Basic evaluation
-  - Print
-- Writing your own Policies Using **Common Functions** and Testing Them
-  - Common Functions
-- Writing your own Policies  **From Scratch**
-  - Advanced Sentinel Language
-- Advanced Techniques
-  - _Lab Challenges 3-7: Sprinkled In_
+  - Functions
+- Writing and Testing Sentinel Policies in HCP Terraform
+    - *Lab 2:* Sentinel Policy as Code Introduction
+- Using Sentinel for PMR compliance
+- QA
 
 </b>
 
